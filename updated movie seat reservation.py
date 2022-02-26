@@ -1,5 +1,5 @@
 # Stuart Daniells
-# Date: 2021-12-14
+# Date: 2022-01-24
 
 def reserveSeats(theatreArray, numberOfSeats, preference):
     global reservationNum
